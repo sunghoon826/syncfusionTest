@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\repos\\syncfusionTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\syncfusionTest.bundle.scp.css",
+      "PackagePath": "staticwebassets\\syncfusionTest.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\repos\\syncfusionTest\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\repos\\syncfusionTest\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\repos\\syncfusionTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\repos\\syncfusionTest\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.syncfusionTest.props",
+      "PackagePath": "build\\syncfusionTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.syncfusionTest.props",
+      "PackagePath": "buildMultiTargeting\\syncfusionTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.syncfusionTest.props",
+      "PackagePath": "buildTransitive\\syncfusionTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.syncfusionTest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
