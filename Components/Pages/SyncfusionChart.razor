@@ -1,9 +1,29 @@
 ﻿@page "/syncfusion"
+@using Microsoft.EntityFrameworkCore
+@using Syncfusion.Blazor.Charts
+@using static syncfusionTest.Data.TdmsDataContext
+
 <h3>SyncfusionChart</h3>
+@inject IDbContextFactory<TdmsDataContext> contextFactory
+<SfChart>
+    <ChartSeriesCollection>
+        <ChartSeries DataSource="@files" XName="FileName" YName="Data" Type="ChartSeriesType.Line"/>
+    </ChartSeriesCollection>
+</SfChart>
 
-
-@inject TdmsDataContext dbContext
-
+ 
 @code {
 
+    private List<TdmsFileData> files;
+
+    public SyncfusionChart(List<TdmsFileData> files)
+    {
+        this.files = files;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        using var context = contextFactory.CreateDbContext();
+        files = await context.TdmsFiles.ToListAsync();
+    }
 }

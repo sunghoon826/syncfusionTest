@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\syncfusionTest\\syncfusionTest.csproj": {}
+    "D:\\repos\\SyncfusionTest\\syncfusionTest.csproj": {}
   },
   "projects": {
-    "D:\\repos\\syncfusionTest\\syncfusionTest.csproj": {
+    "D:\\repos\\SyncfusionTest\\syncfusionTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\syncfusionTest\\syncfusionTest.csproj",
+        "projectUniqueName": "D:\\repos\\SyncfusionTest\\syncfusionTest.csproj",
         "projectName": "syncfusionTest",
-        "projectPath": "D:\\repos\\syncfusionTest\\syncfusionTest.csproj",
+        "projectPath": "D:\\repos\\SyncfusionTest\\syncfusionTest.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\syncfusionTest\\obj\\",
+        "outputPath": "D:\\repos\\SyncfusionTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

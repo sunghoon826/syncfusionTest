@@ -150,3 +150,11 @@ D:\repos\syncfusionTest\obj\Debug\net8.0\refint\syncfusionTest.dll
 D:\repos\syncfusionTest\obj\Debug\net8.0\syncfusionTest.pdb
 D:\repos\syncfusionTest\obj\Debug\net8.0\syncfusionTest.genruntimeconfig.cache
 D:\repos\syncfusionTest\obj\Debug\net8.0\ref\syncfusionTest.dll
+D:\repos\syncfusionTest\obj\Debug\net8.0\syncfusionTest.sourcelink.json
+D:\repos\syncfusionTest\bin\Debug\net8.0\Syncfusion.Blazor.Charts.dll
+D:\repos\syncfusionTest\bin\Debug\net8.0\Syncfusion.Blazor.Core.dll
+D:\repos\syncfusionTest\bin\Debug\net8.0\Syncfusion.Blazor.Data.dll
+D:\repos\syncfusionTest\bin\Debug\net8.0\Syncfusion.Blazor.DataVizCommon.dll
+D:\repos\syncfusionTest\bin\Debug\net8.0\Syncfusion.ExcelExport.Net.dll
+D:\repos\syncfusionTest\bin\Debug\net8.0\Syncfusion.Licensing.dll
+D:\repos\syncfusionTest\bin\Debug\net8.0\Syncfusion.PdfExport.Net.dll
